@@ -1,13 +1,4 @@
-IAAS- infrasctucture as a service-
-we manage- os, runtime 
-aws manages- hardware, network
-PAAS- platform as a service-
-we manage- we manage apps and data
-aws manages- os, hardware, runtime, network
-SAAS- software as a service-
-we manage nothing, only use
-all others are managed by aws
-
+IaaS (Infrastructure as a Service)OS, runtime, apps, dataHardware, networking, virtualizationEC2PaaS (Platform as a Service)Apps and data onlyEverything belowElastic BeanstalkSaaS (Software as a Service)Nothing — just use itEverythingGmail, Salesforce
 
 feature-public-private-hybrid
 | Feature | Public Cloud | Private Cloud | Hybrid Cloud |
@@ -21,12 +12,12 @@ feature-public-private-hybrid
 
 
 6 advantages of cloud
-1. scalablility
-2. elasticity 
-3. pay as you use
-4. go global
-5. no need to maintain
-6. increase speed and agility
+1. Trade capital expense for variable expense
+2. Benefit from massive economies of scale  
+3. Stop guessing capacity
+4. Increase speed and agility
+5. Stop spending money on running data centers
+6. Go global in minutes
 
 
 CAPEX- Capital expenditure - large upfront investment, buy servers, high maintenance
